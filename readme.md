@@ -6,7 +6,7 @@ The *N*et *P*romoter *S*core is a metric that aims to assess customer satisfacti
 
 ## How this API works?
 It sends an e-mail to your user asking how much would he recommend your company in a level of 1 to 10.
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f5aab4f-0e7c-442f-a8cb-9fba24f5b969/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f5aab4f-0e7c-442f-a8cb-9fba24f5b969/Untitled.png)
+![image](https://user-images.githubusercontent.com/22736436/111106513-00042f80-8534-11eb-9f35-68f0495e45d0.png)
 
 ### PS: Made during the studies of NLW 04 by RocketSeat.
 Main technologies used: NodeJS, JavaScript, TypeScript, SQL.
