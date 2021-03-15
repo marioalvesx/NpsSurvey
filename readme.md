@@ -2,7 +2,7 @@
 Wanna know the level of satisfaction of your clients with your services?
 
 ## What is NPS?
-The *N*et *P*romoter *S*core is a metric that aims to assess customer satisfaction and loyalty with companies.
+The **N**et **P**romoter **S**core is a metric that aims to assess customer satisfaction and loyalty with companies.
 
 ## How this API works?
 It sends an e-mail to your user asking how much would he recommend your company in a level of 1 to 10.
