@@ -9,17 +9,12 @@ jobs:
   build:
     runs-on: windows-latest
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+    steps:    
+      - uses: actions/checkout@v2
 
-      - name: Set up Node
+      - name: Install Node.js
         uses: actions/setup-node@v1
         with: 
-          node-version: 14
-
-      - name: Install Dependencies
-        run: yarn install
-        
-      - name: Test
-        run: yarn test --coverage
+          node-version: 14.x
+      - run: yarn
+      - run: yarn test --coverage
